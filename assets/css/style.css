@@ -9,6 +9,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+::-webkit-scrollbar {
+  display: none;
+}
+
 body {
   font-family: "Comic sans Ms" !important;
   background-color: #040404;
